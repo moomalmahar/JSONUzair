@@ -1,0 +1,19 @@
+{
+    "name": "John",
+    "age": 30,
+    "country": "DE",
+    "city": "Hamburg",
+    "cars": [
+        {
+            "name": "BMW",
+            "model": "2018"
+        }, {
+            "name": "Ford",
+            "model": "2009"
+        },
+         {
+            "name": "Tesla",
+            "model": "2015"
+        }
+    ]
+}
